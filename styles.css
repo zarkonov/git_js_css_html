@@ -1,3 +1,13 @@
+body {
+  background-color: aquamarine;
+}
+h1 {
+  color: purple;
+}
+p {
+  color: red;
+}
+
 * {
   margin:0px;
   padding:0px;
@@ -5,21 +15,13 @@
 
 #octocat {
   display: block;
-  width:484px;
+  width:884px;
   margin: 50px auto;
 }
 
 p {
   display: block;
-  width: 500px;
+  width: 900px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
-
-body {
-  bacground-color: aquamarine;
-}
-
-h1 {
-  bacground-color: yellow;
 }
